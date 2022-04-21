@@ -1,0 +1,32 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Futura',sans-serif;
+    font-size: 20px;
+}
+.instr{
+    width: 640px;
+    height: 510px;
+    padding: 50px 50px;
+    background-color: antiquewhite;
+}
+.title{
+    margin-bottom: 30px;
+    text-align: center;
+}
+.words{
+    line-height: 1.5rem;
+}
+.start{
+    text-align: center;
+}
+.start a{
+    padding: 5px;
+    text-decoration: none;
+    color:rgb(255, 111, 0);
+    border: 2px solid gray;
+}
+.start a:hover{
+    background-color: rgb(255, 255, 255);
+}
